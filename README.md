@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Thor Nguyen
 
-<!--
-**thoanguyen97-la/thoanguyen97-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **🎯 **QA Engineer | Python Learner | SQL & Test Automation Enthusiast**
+**
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio!  
+Here you’ll find my projects, test cases, and scripts that showcase my journey in software quality assurance and Python development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💼 Currently working on mobile app QA (UI/UX + logic testing)
+- 📘 Preparing for **ISTQB Foundation Level**
+- 🧑‍💻 Building mini projects in Python (CLI, automation, etc.)
+- 🧩 Passionate about test design, shift-left, and data analysis
+
+---
+
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| [To-do CLI App](https://github.com/yourusername/todo-cli) | Command-line To-do manager for learning Python basics | Python |
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** Python, SQL, Markdown  
+- **Tools:** Git, Postman, JIRA, VSCode  
+- **Testing:** Manual Testing, ISTQB principles  
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: thoanguyen120494@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/thoanguyenla](https://www.linkedin.com/in/thoanguyenla/)
+- 🌐 Website/Portfolio: [yourusername.github.io](https://yourusername.github.io)
+
+⭐ *Feel free to explore my repositories and connect with me!*
+
