@@ -33,7 +33,7 @@ Here you’ll find my projects, test cases, and scripts that showcase my journey
 ## 📫 Contact Me
 - ✉️ Email: thoanguyen120494@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/thoanguyenla](https://www.linkedin.com/in/thoanguyenla/)
-- 🌐 Website/Portfolio: [thoanguyen97-la.github.io](https://thoanguyen97-la.github.io)
+- 🌐 Website/Portfolio: [thoanguyen97-la.github.io](https://thoanguyen97-la.github.io/thoanguyen97-la/)
 
 ⭐ *Feel free to explore my repositories and connect with me!*
 
