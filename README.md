@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thor Nguyen
+# 👋 Hi, I'm Thoa Nguyen
 
 🎯 **🎯 **QA Engineer | Python Learner | SQL & Test Automation Enthusiast**
 **
