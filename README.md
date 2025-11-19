@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Thoa Nguyen
 
-🎯 **🎯 **QA Engineer | Python Learner | SQL & Test Automation Enthusiast**
-**
+🎯 **QA Engineer | Python Learner | SQL & Test Automation Enthusiast**
 
 Welcome to my GitHub portfolio!  
 Here you’ll find my projects, test cases, and scripts that showcase my journey in software quality assurance and Python development.
