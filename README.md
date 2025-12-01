@@ -8,9 +8,9 @@ Here you’ll find my projects, test cases, and scripts that showcase my journey
 ---
 
 ## 🧠 About Me
-- 💼 Currently working on mobile app QA (UI/UX + logic testing)
-- 📘 Preparing for **ISTQB Foundation Level**
-- 🧑‍💻 Building mini projects in Python (CLI, automation, etc.)
+- 💼 Currently working on web/mobile app QA (UI/UX + logic testing)
+- 📘 ISTQB Foundation Level Certified
+- 🧑‍💻 Automation QA focus using Python & Selenium
 - 🧩 Passionate about test design, shift-left, and data analysis
 
 ---
