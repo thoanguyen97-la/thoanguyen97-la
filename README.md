@@ -19,6 +19,7 @@ Here you’ll find my projects, test cases, and scripts that showcase my journey
 | Project | Description | Tech |
 |----------|--------------|------|
 | [To-do CLI App](https://github.com/yourusername/todo-cli) | Command-line To-do manager for learning Python basics | Python |
+| [Automation Selenium - Shopping Online Web](https://github.com/thoanguyen97-la/sauce-demo-autiomation-practice.git) | Practice Selenium automation on shopping online website  | Python |
 
 ---
 
