@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thoa Nguyen
 
-🎯 **QA Engineer | Python Learner | SQL & Test Automation Enthusiast**
+🎯 **QA Engineer | Java Learner | SQL & Test Automation Enthusiast**
 
 Welcome to my GitHub portfolio!  
 Here you’ll find my projects, test cases, and scripts that showcase my journey in software quality assurance and Python development.
@@ -10,7 +10,7 @@ Here you’ll find my projects, test cases, and scripts that showcase my journey
 ## 🧠 About Me
 - 💼 Currently working on web/mobile app QA (UI/UX + logic testing)
 - 📘 ISTQB Foundation Level Certified
-- 🧑‍💻 Automation QA focus using Python & Selenium, Java & Appium
+- 🧑‍💻 Automation QA focus using Java & Selenium, Java & Appium
 - 🧩 Passionate about test design, shift-left, and data analysis
 
 ---
@@ -24,8 +24,8 @@ Here you’ll find my projects, test cases, and scripts that showcase my journey
 ---
 
 ## 🧰 Tech Stack
-- **Languages:** Python, SQL, Markdown  
-- **Tools:** Git, Postman, JIRA, VSCode  
+- **Languages:** Java, SQL, API  
+- **Tools:** Git, Postman, JIRA, IntelliJ IDEA  
 - **Testing:** Manual Testing, ISTQB principles  
 
 ---
